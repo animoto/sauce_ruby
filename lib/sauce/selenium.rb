@@ -1,7 +1,6 @@
 require "forwardable"
 require "sauce/driver_pool"
 
-require "selenium/client"
 require "selenium/webdriver"
 
 require 'selenium/webdriver/remote/http/persistent'
